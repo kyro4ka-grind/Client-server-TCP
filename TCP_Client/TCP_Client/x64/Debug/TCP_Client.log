@@ -1,0 +1,5 @@
+﻿  Client.cpp
+C:\Users\Zuzu\Desktop\CODE\TCP_Client\TCP_Client\Client.cpp(60,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Main.cpp
+  Создание кода...
+  TCP_Client.vcxproj -> C:\Users\Zuzu\Desktop\CODE\TCP_Client\x64\Debug\TCP_Client.exe
